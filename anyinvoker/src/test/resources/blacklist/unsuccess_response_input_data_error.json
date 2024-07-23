@@ -1,7 +1,0 @@
-{
-  "code": 400,
-  "message": "Bad Request",
-  "error": {
-    "national_id": "Valid national_id is required"
-  }
-}

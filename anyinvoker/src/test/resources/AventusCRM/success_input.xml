@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Request>
-    <filter _type="ARRAY_PART">
-        <name _simple="">customers.person_code</name>
-        <act _simple="">=</act>
-        <value _simple="">97122300417</value>
-    </filter>
-</Request>
