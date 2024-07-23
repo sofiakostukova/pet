@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration><!--
+                http://logback.qos.ch/manual/configuration.html
+                Enabling packaging data in stack traces
+            -->
+    <property name="log_pattern"
+              value="%d{dd.MM.yyyy HH:mm:ss.SSS} [%t] %-5p %c - %m%n"/>
+
+    <appender name="ConsoleAppender" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <charset>UTF-8</charset>
+            <Pattern>${log_pattern}</Pattern>
+        </encoder>
+    </appender>
+
+    <root>
+        <level value="INFO"/>
+        <appender-ref ref="ConsoleAppender" />
+    </root>
+</configuration>

@@ -1,0 +1,25 @@
+{
+    "status": 200,
+    "data": {
+        "names": {
+            "person_code_0": "pesel",
+            "customer_id_1": "Client_id",
+            "work_status_2": "work form",
+            "highest_amount": "highest_amount",
+            "last_date_of_reject": "last_date_of_reject",
+            "delay_max_5": "delay_max",
+            "max_DPD": "delay_max_test"
+        },
+        "data": [
+            [
+                "97122300417",
+                "737002",
+                "1",
+                "100.00",
+                "2021-08-25 09:00:31",
+                "0",
+                "0"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+<CRM_AVENTUS>
+    <data>
+        <names>
+            <highest_amount>100.00</highest_amount>
+            <last_date_of_reject>2021-08-25 09:00:31</last_date_of_reject>
+            <delay_max_test>0</delay_max_test>
+            <delay_max>0</delay_max>
+            <Client_id>737002</Client_id>
+            <work_form>1</work_form>
+            <pesel>97122300417</pesel>
+        </names>
+    </data>
+    <status>200</status>
+</CRM_AVENTUS>

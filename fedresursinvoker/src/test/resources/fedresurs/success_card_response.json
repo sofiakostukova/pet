@@ -1,0 +1,58 @@
+{
+  "guid": "477da63f-8cc3-42b2-a8b1-c98301f345b8",
+  "info": {
+    "fullName": "(Ананченко) Белокур Кристина Сергеевна",
+    "address": "630032, г. Новосибирск, ул. Блюхера, д. 73",
+    "email": [],
+    "phone": [],
+    "snils": "15661939498",
+    "birthdateBankruptcy": "1992-05-13T00:00:00",
+    "birthplaceBankruptcy": "г. Новосибирск",
+    "isBankruptcyMoratoriumParticipant": true,
+    "nameHistories": [],
+    "ogrnipHistories": []
+  },
+  "roles": {
+    "isAppraiser": false,
+    "isArbitrManager": false,
+    "isTradeOrg": false,
+    "isIndividualEntrepreneur": false,
+    "isPersonBankrupt": true
+  },
+  "publicationsStatistic": {
+    "sfactMessageTypeStatistic": [],
+    "personBankruptMessageTypeStatistic": [
+      {
+        "legalCase": {
+          "id": 492638,
+          "number": "А45-21397/2020"
+        },
+        "messageGroups": [
+          {
+            "messageTypes": [
+              {
+                "name": "Сообщение о судебном акте",
+                "type": "ArbitralDecree",
+                "count": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "arbitrManagerMessageTypeStatistic": [],
+    "tradeOrgMessageTypeStatistic": [],
+    "personEfrsbMessageTypeStatistic": [],
+    "amReportStatistic": {}
+  },
+  "sroMembership": [],
+  "legalCases": [
+    {
+      "number": "А45-21397/2020",
+      "courtName": "Арбитражный суд Новосибирской области",
+      "claimantType": "конкурсный кредитор",
+      "isCreditOrg": true,
+      "isPledged": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Result>
+    <code>200</code>
+    <message>Success</message>
+    <data>
+        <national_id>676756757577</national_id>
+        <fraud_flag>true</fraud_flag>
+        <mobile_phone>+84756756756</mobile_phone>
+        <birth_date>2001-09-01</birth_date>
+        <last_name>Demo</last_name>
+        <fdp15_date>2019-9-02T12:17:55+07:00</fdp15_date>
+        <black_list_reason>2</black_list_reason>
+        <fdp15_flag>true</fdp15_flag>
+        <middle_name>Mid</middle_name>
+        <first_name>User</first_name>
+        <black_list_date>2019-10-14T13:55:42+07:00</black_list_date>
+        <email>test@test.test</email>
+    </data>
+</Result>
