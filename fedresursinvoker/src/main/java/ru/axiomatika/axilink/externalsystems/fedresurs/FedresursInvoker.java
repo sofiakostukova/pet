@@ -45,7 +45,6 @@ import java.util.*;
  */
 public class FedresursInvoker extends HTTPSGetExternalSystem {
 
-
     private final JsonXMLConverter jsonXMLConverter = new JsonXMLConverter();
 
     public FedresursInvoker(String connectionString) {
