@@ -25,7 +25,6 @@ import java.net.URI;
 @PrepareForTest(FedresursInvoker.class)
 @RunWith(PowerMockRunner.class)
 public class FedresursInvokerTest extends CommonTestV2 {
-
     public FedresursInvokerTest() throws Exception {
         super("fedresurs");
     }
